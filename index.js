@@ -1,4 +1,8 @@
 console.log('Howdy!')
+// let btn = document.querySelector('button');
 
-var random = Math.floor(Math.random() * 5) + 1;
-console.log(random);
+var randomPicker = Math.floor(Math.random() * 5) + 1;
+
+function getRandomPicker() {
+    alert(randomPicker);
+};

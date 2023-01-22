@@ -1,7 +1,14 @@
 body {
-  background-color: darkolivegreen;
+  background-color:dimgray;
 }
 
 h1{
     color: cornflowerblue;
+    text-decoration: underline;
+}
+
+ul{
+    color: cornflowerblue;
+    list-style-type: none;
+    font-size: 18px;
 }
